@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Top 5</string>
+    <string name="affirmation1" translatable="false">These are my Top 5 Football Players</string>
+    <string name="affirmation2" translatable="false">1. Mesut Ozil</string>
+    <string name="affirmation3" translatable="false">2. Lionel Messi</string>
+    <string name="affirmation4" translatable="false">3. Neymar Jr</string>
+    <string name="affirmation5" translatable="false">4. Paul Pogba</string>
+    <string name="affirmation6" translatable="false">5. Angel Di Maria</string>
+
+</resources>
